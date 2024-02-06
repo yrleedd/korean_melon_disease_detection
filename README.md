@@ -1,6 +1,6 @@
 ![image](https://github.com/zangyook/korean_melon_disease_detection/assets/100524867/2cbdfdbf-251c-447f-b3c0-d3e7a49627b3)
 ## __Background__
-Plant disease is one of the causes of reducing crop yields. Korean melon also is decreasing because of plant disease. Thus, for solving this problems, we suggest the plant disease diagnosis model using machine learning.
+- Plant disease is one of the causes of reducing crop yields. Korean melon also is decreasing because of plant disease. Thus, for solving this problems, we suggest the plant disease diagnosis model using machine learning.
 ![figure1](https://github.com/zangyook/korean_melon_disease_detection/assets/100524867/dcab6efb-21be-4db0-a47f-dc0e9e1a3e88)
 
 ## Dataset 
@@ -17,7 +17,7 @@ Each class used 450 images in order to prevent imbalance data problem. For data 
 - Classification model : 1) SVM 2) CNN
 ## __Results__
 ![image](https://github.com/zangyook/korean_melon_disease_detection/assets/100524867/8877cd2b-d8e1-431b-989a-a62eaf5ca113)
-In the augmented cases, The accuracy was greatly improved.
+- In the augmented cases, The accuracy was greatly improved.
 ![image](https://github.com/zangyook/korean_melon_disease_detection/assets/100524867/daa3ab5a-9e17-4b34-bd2a-57db893b53e3)
 
 
